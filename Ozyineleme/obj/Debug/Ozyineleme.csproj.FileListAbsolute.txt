@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# VERİ\Ozyineleme\bin\Debug\Ozyineleme.exe.config
+C:\Users\BERAT\Desktop\C# VERİ\Ozyineleme\bin\Debug\Ozyineleme.exe
+C:\Users\BERAT\Desktop\C# VERİ\Ozyineleme\bin\Debug\Ozyineleme.pdb
+C:\Users\BERAT\Desktop\C# VERİ\Ozyineleme\obj\Debug\Ozyineleme.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# VERİ\Ozyineleme\obj\Debug\Ozyineleme.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# VERİ\Ozyineleme\obj\Debug\Ozyineleme.exe
+C:\Users\BERAT\Desktop\C# VERİ\Ozyineleme\obj\Debug\Ozyineleme.pdb

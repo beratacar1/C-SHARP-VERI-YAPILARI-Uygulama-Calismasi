@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# VERİ\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.exe.config
+C:\Users\BERAT\Desktop\C# VERİ\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.exe
+C:\Users\BERAT\Desktop\C# VERİ\Binary_Search_Tree\bin\Debug\Binary_Search_Tree.pdb
+C:\Users\BERAT\Desktop\C# VERİ\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# VERİ\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# VERİ\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.exe
+C:\Users\BERAT\Desktop\C# VERİ\Binary_Search_Tree\obj\Debug\Binary_Search_Tree.pdb
