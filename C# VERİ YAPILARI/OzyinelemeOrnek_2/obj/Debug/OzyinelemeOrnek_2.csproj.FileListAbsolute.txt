@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\C# VERİ\OzyinelemeOrnek_2\bin\Debug\OzyinelemeOrnek_2.exe.config
+C:\Users\BERAT\Desktop\C# VERİ\OzyinelemeOrnek_2\bin\Debug\OzyinelemeOrnek_2.exe
+C:\Users\BERAT\Desktop\C# VERİ\OzyinelemeOrnek_2\bin\Debug\OzyinelemeOrnek_2.pdb
+C:\Users\BERAT\Desktop\C# VERİ\OzyinelemeOrnek_2\obj\Debug\OzyinelemeOrnek_2.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# VERİ\OzyinelemeOrnek_2\obj\Debug\OzyinelemeOrnek_2.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# VERİ\OzyinelemeOrnek_2\obj\Debug\OzyinelemeOrnek_2.exe
+C:\Users\BERAT\Desktop\C# VERİ\OzyinelemeOrnek_2\obj\Debug\OzyinelemeOrnek_2.pdb
